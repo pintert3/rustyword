@@ -7,7 +7,7 @@ authors = ["Phillip Samuel K. phillipsamuelk3@gmail.com"]
 license = "MIT"
 keywords = ["cli", "word", "letter"]
 categories = ["command-line-utilites", "text-processing"]
-
+repository = "https://github.com/pintert3/rustyword"
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
