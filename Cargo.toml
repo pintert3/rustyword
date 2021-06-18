@@ -1,0 +1,15 @@
+[package]
+name = "rustyword"
+version = "0.1.0"
+edition = "2018"
+description = "An anagram finder"
+authors = ["Phillip Samuel K. phillipsamuelk3@gmail.com"]
+license = "MIT"
+keywords = ["cli", "word", "letter"]
+categories = ["command-line-utilites", "text-processing"]
+
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
